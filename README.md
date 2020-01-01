@@ -38,6 +38,8 @@ optional arguments:
   -i INPUT_FILE, --input INPUT_FILE
                         Input json file with config params    
 ```
+You can find sample config files under the input folder
+
 ## Links
 Please find a short blog exploring the implications of the results from the experiments below:
 https://medium.com/@gouri.k_20974/evolution-of-a-mendelian-pea-part-2-5a729eddd337
