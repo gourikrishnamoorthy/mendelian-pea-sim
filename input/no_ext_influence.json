@@ -1,0 +1,19 @@
+{
+  "advantage": {
+    "y": 0.1,
+    "G": 0.1,
+    "w": 0.1,
+    "R": 0.1
+  },
+  "base-survival": 0.4,
+  "output-location": "./output",
+  "output-file": "o_sexternal_influence.xls",
+  "no-of-generations-per-iteration": 30,
+  "no-of-iterations": 30,
+  "no-of-children": 4,
+  "generation0": {
+    "hetrogygote": 20,
+    "homozygote-recessive": 0,
+    "homozygote-dominant": 0
+  }
+}

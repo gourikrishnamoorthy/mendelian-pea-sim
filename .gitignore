@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+build/*
+Mendelian_Pea.egg-info/
