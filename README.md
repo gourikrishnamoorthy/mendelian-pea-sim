@@ -38,6 +38,9 @@ optional arguments:
   -i INPUT_FILE, --input INPUT_FILE
                         Input json file with config params    
 ```
+## Links
+Please find a short blog exploring the implications of the results from the experiments below:
+https://medium.com/@gouri.k_20974/evolution-of-a-mendelian-pea-part-2-5a729eddd337
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
